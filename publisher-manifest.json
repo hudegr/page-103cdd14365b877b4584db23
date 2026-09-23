@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c6dcc7fb43fccc9b36ddefad",
+  "owner": "hudegr",
+  "repo": "page-103cdd14365b877b4584db23",
+  "title": "雕云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "103cdd14365b877b4584db23",
+      "a": "雕云",
+      "b": "稳定全球clash加速器",
+      "entity": "雕云",
+      "brand": "雕云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f6e5d90a4dce9fba79ba5d9b3aec21b8f9e87954639cc1f5bfebdbbf6539c536",
+      "content": {
+        "primary_entity": "雕云",
+        "keyword1": "雕云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，雕云提供基础版、旗舰版、团队版三档订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线需求。旗舰版带 IPLC 专线，适合游戏加速和原生流媒体解锁；团队版支持企业定制路由与专属客户经理。按客户端文档配置 Clash 订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "雕云订阅灵活选，全球节点稳连",
+          "AI_HERO_INTRO": "雕云面向需要稳定全球连接的访客，提供基础版、旗舰版、团队版三档订阅。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版还带 IPLC 专线优化。配合 Clash 客户端导入订阅，即可按需使用。",
+          "AI_VISUAL_TITLE": "雕云全球加速",
+          "AI_HIGHLIGHT_1": "三档套餐按流量设备选",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "Clash 订阅一键导入配置",
+          "AI_FEATURES_TITLE": "雕云套餐与使用要点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和线路类型出发，选择适合的雕云套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，覆盖手机、电脑与平板同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量定周期",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量，月付灵活，年付更省，按年付最高可省两个月费用。",
+          "AI_FEATURE_TITLE_3": "按线路挑体验",
+          "AI_FEATURE_TEXT_3": "普通节点池满足日常浏览，旗舰版 IPLC 专线适合游戏和流媒体，团队版 VIP 节点带宽更高。",
+          "AI_CLIENTS_TITLE": "选择适合设备的 Clash 客户端",
+          "AI_CLIENTS_INTRO": "雕云订阅可导入支持 Clash 订阅格式的客户端。Windows 和 macOS 可选用 Clash Verge、ClashX 等，Android 可尝试 Clash Meta for Android，iOS 可配合 Shadowrocket 等工具导入订阅链接。不同系统版本的表现有差异，建议优先参考所选客户端的配置文档。",
+          "AI_PLANS_TITLE": "雕云套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，100GB 流量支持 3 台设备；旗舰版 ¥35/月，300GB 流量支持 5 台设备并含 IPLC 专线；团队版 ¥85/月，1000GB 流量支持 20 台设备并含定制路由。年付分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步开始使用雕云",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，按步骤操作即可。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档，确定月付或年付周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备系统与 Clash 客户端版本，核对套餐支持的在线设备数量，避免超出限制。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "按所用 Clash 客户端的文档，将订阅链接粘贴并更新节点，完成配置后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对雕云套餐",
+          "AI_CLOSING_TEXT": "按设备与流量需求选好套餐，导入 Clash 订阅即可稳定连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "雕云支持哪些设备客户端？",
+          "AI_FAQ_ANSWER_1": "常见手机、电脑与平板系统均有对应客户端，可按设备类型选择，并参照客户端文档导入订阅使用。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台同时在线，超出后需要调整套餐。",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 15 元、年付 150 元，旗舰版月付 35 元、年付 350 元，团队版月付 85 元、年付 850 元，年付相当于十个月价格。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版的线路有什么区别？",
+          "AI_FAQ_ANSWER_4": "基础版使用普通线路节点池，旗舰版提供 IPLC 专线并做游戏加速优化，同时支持全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量，支持 20 台设备，含 VIP 高带宽节点、企业定制路由与专属客户经理，适合多人协作使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ssr-039g46l.com",
+    "host": "xn--ssr-039g46l.com"
+  },
+  "file_hashes": {
+    "index.html": "b8634de9ec45c864a532649b2debf16efb5f63be4b69cb321374d73b72316d48",
+    "sitemap.xml": "4e266b2d10d3e8866b942aa85b7f5a07aa2b7b73e0dda9093f6e8225ec419956",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "76746fa977c0a4103e9d9e68f498e09bb2b9aa20fc40c5ae5164996a8149dbf8",
+    "robots.txt": "e629ef4d2d863af92384c15a4896ffd066f96ad427b6751bd209d38482dc7588",
+    "d594cda33cddee0fe3f4f286313c8ac3.txt": "1363e615ca62abb68ec6956ad1f748078812859535fd4554d475f52eee246d86"
+  },
+  "revision": "b8b5a89d041b45f0ef312d72762fc938d21a3a439f4af881d9ff5bd71cc59e73"
+}
